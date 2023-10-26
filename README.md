@@ -8,4 +8,4 @@ The below diagram represents the linked-list structure.
 ## Explaination
 This code has the simplest form of linked list implementation and we just link nodes together and print their addresses manually amd using loops.
 ## Output Screenshot
-![]()
+![](image_2023-10-27_003233144.png)
